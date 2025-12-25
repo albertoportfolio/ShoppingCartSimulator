@@ -16,7 +16,8 @@ Console-based Java application connected to MySQL (JDBC) that simulates a basic 
 
 ☕ Java · 🗄️ MySQL · 🔌 JDBC · 💻 IntelliJ · 🌱 Git
 
-## Author: albertoportfolio
+## Author:
+albertoportfolio
 
 ## 📄 License
 Distributed for educational purposes. Free to adapt and reuse for learning and practice.
